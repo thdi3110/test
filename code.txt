@@ -1,4 +1,9 @@
 source code 1
 source code 2
 source code 3
+<<<<<<< HEAD
 source code 4
+=======
+source code 4
+test1 code 4
+>>>>>>> test1
